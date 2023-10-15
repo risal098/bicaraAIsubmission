@@ -278,7 +278,7 @@ TextEditingController regPasswordController = TextEditingController();
 
               SizedBox(height: 20),
 
-              // Login Button
+              // registr Button
               ElevatedButton(
                 onPressed: () async{
                   //register logic here
@@ -323,7 +323,7 @@ TextEditingController regPasswordController = TextEditingController();
                     botImgIndex=0;
           authDecision="login";
         });
-                  // Add your sign-up navigation logic here
+                  
                 },
                 child: Text(
                   'Already have an account?,Login',
