@@ -221,7 +221,7 @@ TextEditingController regPasswordController = TextEditingController();
               ),
 
               SizedBox(height: 20),
-              // Email Input
+              // fna Input
               TextFormField(
                 controller: regFNameController,
                 decoration: InputDecoration(
@@ -235,7 +235,7 @@ TextEditingController regPasswordController = TextEditingController();
               ),
 
               SizedBox(height: 20),
-              // Email Input
+              // lna Input
               TextFormField(
                 controller: regLNameController,
                 decoration: InputDecoration(
