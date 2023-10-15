@@ -281,7 +281,7 @@ TextEditingController regPasswordController = TextEditingController();
               // registr Button
               ElevatedButton(
                 onPressed: () async{
-                  //register logic here
+                  
                   String email = regEmailController.text;
                   String fName = regFNameController.text;
                   String lName = regLNameController.text;
